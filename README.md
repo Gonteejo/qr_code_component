@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Gonteejo/qr_code_component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Gonteejo/qr_code_component)
+- Live Site URL: [Live site](https://gonteejo.github.io/qr_code_component/)
 
 ### Built with
 
